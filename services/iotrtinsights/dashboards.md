@@ -1,3 +1,10 @@
+---
+
+copyright:
+  years: 2015,2016
+
+---
+
 {:shortdesc: .shortdesc}
 
 # Managing dashboards and templates {: #managing-dashboards}
@@ -5,7 +12,7 @@
 The real-time data from your IoT devices is displayed in customizable dashboards. You can manually create dashboards that display real-time metrics, show graphs, and display other information for one or more devices. Dashboards can also contain filtered lists of devices and links to other dashboards.
 {: shortdesc}
 
-In addition to manually created dashboards, IoT Real-Time Insights comes with a predefined device alerts dashboard at **Dashboards > Overview** and dynamically creates device dashboards based on the message schemas that you create.
+In addition to manually created dashboards, {{site.data.keyword.iotrtinsights_short}} comes with a predefined device alerts dashboard at **Dashboards > Overview** and dynamically creates device dashboards based on the message schemas that you create.
 
 ## Dashboards {: #dashboards}
 
@@ -13,7 +20,7 @@ Administrators can create new dashboards and modify existing ones to display the
 To create a dashboard:
 1.	Go to **Dashboards > Browse Dashboards**.
 2.	Click **Add new dashboard**.
-3.	Give the dashboard a name and select attributes, such as icon and background. Also select whether to make this dashboard editable to IoT Real-Time Insights operator users.
+3.	Give the dashboard a name and select attributes, such as icon and background. Also select whether to make this dashboard editable to {{site.data.keyword.iotrtinsights_short}} operator users.
 4.	Click ![Create icon.](images/create.png "Create icon").
 5.	Click the new dashboard tile to open the empty dashboard.
 6.	To add widgets to the dashboard:  
@@ -40,7 +47,7 @@ If, however, you configure the data point with a min and max value, you have the
 
 You can also assign a Sensor type for the data point to enable a special type of visualization widget to better illustrate the type of sensor data that is displayed. For example, you can select the sensor type `Light on/off` to enable a `Plain light indicator (on/off)` visualization widget.
 
-You also have the option to include several widgets for the same datapoint in the same dashboard to show both the raw numerical value and humidity side by side.   ![Multiple widgets for the same data point.](images/widgets.png "Multiple widgets for the same data point icon")  
+You also have the option to include several widgets for the same datapoint in the same dashboard to show both the raw numerical value and humidity side by side.   ![Multiple widgets for the same data point.](images/widgets.svg "Multiple widgets for the same data point icon")  
 *Three visualization options for the same data point.*
 
 
@@ -57,7 +64,7 @@ The following table summarizes the visualization options that are available to d
 
 Data point sensor type | Visualization options | Details | Supported data type
 ------------- | ------------- | -------------
-No selection | Plain value | - | Real/Integer/Float
+No selection | Plain value | - | String/Integer/Float
 Light on/off | Plain light indicator (on/off) | 0=off | Integer
 Switch on/off | Plain switch indicator (on/off) | 0=off | Integer
 Temperature sensor | Generic temperature gauge | N/A | Integer/Float
@@ -73,12 +80,12 @@ Energy meter | Plain value | N/A | Integer/Float
 Percentage | Plain percentage (0-100) | N/A | Integer/Float
 Voltage | Plain voltage gauge | N/A | Integer/Float
 Current | Plain current gauge | N/A | Integer/Float
-Longitude | Device location on Special > Map widget (Latitude widget also required) | N/A | Float
-Latitude | Device location on Special > Map widget (Longitude widget also required) | N/A | Float
+Longitude | Device location on Special > Map widget (Latitude widget also required) | **Important:** The data point used for the longitude value must be assigned the sensor type Longitude in the message schema. | Float
+Latitude | Device location on Special > Map widget (Longitude widget also required) | **Important:** The data point used for the latitude value must be assigned the sensor type Latitude in the message schema. | Float  
 
 
 ## Default dashboard layouts
-IoT Real-Time Insights comes with predefined dashboards: an alerts dashboard and device dashboards.
+{{site.data.keyword.iotrtinsights_short}} comes with predefined dashboards: an alerts dashboard and device dashboards.
 
 The following tables describe the widgets and layout of the predefined dashboards.
 ### Alerts Dashboard (Dashboards > Overview)
@@ -161,7 +168,7 @@ To modify a predefined template:
 2.	In the Manage Templates panel, find the template tile, and click ![Configure icon.](images/gear.png "Configure icon")** > Change layout** to open the template for editing.  
 3.	Add widgets to the template.
  1.	Click **Add new template component** to add an initial template widget.
- 2.	Select a component to add, then select further component attributes, and, if needed, select display properties.
+ 2.	Select a component to add, then select further component attributes, and, if needed, select display properties.  
  3.	Click ![Create icon.](images/create.png "Create icon") to add the widget to the template.
 4.	Edit existing widgets.
  1.	Hover over a template widget, and click ![Configure icon.](images/gear.png "Configure icon").

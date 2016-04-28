@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ART" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1055.4 756.4" enable-background="new 0 0 1055.4 756.4" xml:space="preserve">
+<rect x="21.6" y="29.8" fill="#FFFFFF" stroke="#00AEEF" stroke-width="2" stroke-miterlimit="10" width="174.9" height="250"/>
+<rect x="283" y="31.8" fill="#FFFFFF" stroke="#00AEEF" stroke-width="2" stroke-miterlimit="10" width="770.4" height="698.9"/>
+<rect x="383" y="71.1" fill="#FFFFFF" stroke="#00AEEF" stroke-miterlimit="10" width="650.4" height="420.6"/>
+<rect x="423" y="111.8" fill="#FFFFFF" stroke="#00AED1" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="3,3" width="570.4" height="339.9"/>
+<rect x="534.1" y="151.8" fill="#FFFFFF" stroke="#00AED1" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="3,3" width="441.6" height="146.8"/>
+<rect x="21.8" y="319.8" fill="#FFFFFF" stroke="#00AEEF" stroke-width="2" stroke-miterlimit="10" width="174.9" height="410.9"/>
+<rect x="44.2" y="71.8" fill="#FFFFFF" stroke="#00AED1" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="3,3" width="129.5" height="168"/>
+<rect x="44.2" y="343.5" fill="#FFFFFF" stroke="#00AED1" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="3,3" width="129.5" height="159.5"/>
+<rect x="44.2" y="530.8" fill="#FFFFFF" stroke="#00AED1" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="3,3" width="129.5" height="160"/>
+<rect x="0.8" y="25.4" fill="#FFFFFF" width="54" height="24.7"/>
+<rect x="7" y="26" fill="none" width="136.2" height="40.9"/>
+<text transform="matrix(1 0 0 1 6.9764 39.1098)" fill="#000101" font-family="'ArialMT'" font-size="18.3476">IBM</text>
+<rect x="0.8" y="311.4" fill="#FFFFFF" width="157.4" height="24.7"/>
+<rect x="10" y="312" fill="none" width="149" height="24.9"/>
+<text transform="matrix(1 0 0 1 9.9789 326.1005)" fill="#000101" font-family="'MS-Gothic'" font-size="18.3476">エンタープライズ</text>
+<rect x="328.9" y="25.7" fill="#FFFFFF" width="100.6" height="24.7"/>
+<rect x="339.1" y="26.3" fill="none" width="136.2" height="40.9"/>
+<text transform="matrix(1 0 0 1 339.0923 39.3887)" fill="#000101" font-family="'ArialMT'" font-size="18.3476">SoftLayer</text>
+<rect x="378.2" y="61.7" fill="#FFFFFF" width="214.5" height="24.7"/>
+<rect x="387.4" y="62.3" fill="none" width="289.8" height="40.9"/>
+<text transform="matrix(1 0 0 1 387.3925 75.3931)"><tspan x="0" y="0" fill="#000101" font-family="'ArialMT'" font-size="18.3476">Bluemix Dedicated</tspan><tspan x="0" y="22" fill="#000101" font-family="'ArialMT'" font-size="18.3476">(</tspan><tspan x="6.1" y="22" fill="#000101" font-family="'MS-Gothic'" font-size="18.3476">シングル・テナント</tspan><tspan x="171.2" y="22" fill="#000101" font-family="'ArialMT'" font-size="18.3476">)</tspan></text>
+<rect x="216.4" y="377.8" fill="none" width="46.8" height="20.7"/>
+<text transform="matrix(1 0 0 1 229.2392 385.1326)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">VPN</tspan><tspan x="-10" y="10.8" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">トンネル</tspan></text>
+<rect x="216.4" y="151.8" fill="none" width="46.8" height="20.7"/>
+<text transform="matrix(1 0 0 1 229.2392 159.1921)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">VPN</tspan><tspan x="-10" y="10.8" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">トンネル</tspan></text>
+<rect x="309.6" y="151.8" fill="none" width="46.8" height="20.7"/>
+<text transform="matrix(1 0 0 1 322.4404 159.1921)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">VPN</tspan><tspan x="3.7" y="10.8" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">AP</tspan></text>
+<g>
+	<g>
+		<g>
+			<polygon fill="#202540" points="51.3,19.5 71.5,7.8 91.8,19.5 91.8,42.8 71.5,54.5 51.3,42.8 			"/>
+		</g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="51.3" y="-12.4" width="20.2" height="77.4"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<polygon clip-path="url(#SVGID_2_)" fill="#373B54" points="91.8,42.8 71.5,54.5 51.3,42.8 51.3,19.5 71.5,7.8 91.8,19.5 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M68.7,28.5h5.6c-0.6-0.8-1.6-1.3-2.8-1.3C70.3,27.2,69.3,27.7,68.7,28.5z"/>
+		<path fill="#FFFFFF" d="M68.1,29.9c0,0.1,0,0.2,0,0.3v1h6.7v-1c0-0.1,0-0.2,0-0.3H68.1z"/>
+		<path fill="#FFFFFF" d="M68.1,33.6c0,0.1,0,0.2,0,0.3h6.6c0-0.1,0-0.2,0-0.3v-1h-6.7V33.6z"/>
+		<path fill="#FFFFFF" d="M71.4,36.6c1.2,0,2.2-0.5,2.8-1.3h-5.6C69.3,36,70.3,36.6,71.4,36.6z"/>
+		<path fill="#FFFFFF" d="M62.9,29.2c-0.3,0.1-0.6,0.3-0.8,0.5c-0.2,0.2-0.4,0.5-0.5,0.8c-0.1,0.3-0.2,0.6-0.2,0.9
+			c0,0.3,0.1,0.6,0.2,0.9c0.1,0.3,0.3,0.6,0.5,0.8c0.2,0.2,0.5,0.4,0.8,0.5c0.3,0.1,0.6,0.2,0.9,0.2c0,0,0,0,0,0s0,0,0,0
+			c0.3,0,0.6-0.1,0.9-0.2c0.3-0.1,0.6-0.3,0.8-0.5c0.2-0.2,0.4-0.5,0.5-0.8l2-5.2L62.9,29.2z M65.4,32.1c-0.1,0.2-0.2,0.4-0.4,0.6
+			c-0.2,0.2-0.4,0.3-0.6,0.4c-0.2,0.1-0.4,0.1-0.7,0.1c-0.2,0-0.5,0-0.7-0.1c-0.2-0.1-0.4-0.2-0.6-0.4c-0.2-0.2-0.3-0.4-0.4-0.6
+			c-0.1-0.2-0.1-0.4-0.1-0.7c0-0.2,0-0.5,0.1-0.7c0.1-0.2,0.2-0.4,0.4-0.6c0.2-0.2,0.4-0.3,0.6-0.4l3.8-1.5L65.4,32.1z"/>
+		<path fill="#FFFFFF" d="M81.3,30.6c-0.1-0.3-0.3-0.6-0.5-0.8c-0.2-0.2-0.5-0.4-0.8-0.5l-5.2-2l2,5.2c0.1,0.3,0.3,0.6,0.5,0.8
+			c0.2,0.2,0.5,0.4,0.8,0.5c0.3,0.1,0.6,0.2,0.9,0.2c0,0,0,0,0,0s0,0,0,0c0.3,0,0.6-0.1,0.9-0.2c0.3-0.1,0.6-0.3,0.8-0.5
+			c0.2-0.2,0.4-0.5,0.5-0.8c0.1-0.3,0.2-0.6,0.2-0.9C81.5,31.2,81.4,30.8,81.3,30.6z M80.7,32.1c-0.1,0.2-0.2,0.4-0.4,0.6
+			c-0.2,0.2-0.4,0.3-0.6,0.4c-0.2,0.1-0.4,0.1-0.7,0.1c-0.2,0-0.5,0-0.7-0.1c-0.2-0.1-0.4-0.2-0.6-0.4c-0.2-0.2-0.3-0.4-0.4-0.6
+			L76,28.4l3.8,1.5c0.2,0.1,0.4,0.2,0.6,0.4c0.2,0.2,0.3,0.4,0.4,0.6c0.1,0.2,0.1,0.4,0.1,0.7C80.8,31.7,80.8,31.9,80.7,32.1z"/>
+		<path fill="#FFFFFF" d="M69.8,26.5c0.7,0,1.3-0.6,1.3-1.3c0-0.7-0.6-1.3-1.3-1.3c-0.7,0-1.3,0.6-1.3,1.3
+			C68.4,25.9,69,26.5,69.8,26.5z M69.8,24.5c0.4,0,0.7,0.3,0.7,0.7c0,0.4-0.3,0.7-0.7,0.7c-0.4,0-0.7-0.3-0.7-0.7
+			C69.1,24.8,69.4,24.5,69.8,24.5z"/>
+		<path fill="#FFFFFF" d="M73.1,26.5c0.7,0,1.3-0.6,1.3-1.3c0-0.7-0.6-1.3-1.3-1.3c-0.7,0-1.3,0.6-1.3,1.3
+			C71.8,25.9,72.4,26.5,73.1,26.5z M73.1,24.5c0.4,0,0.7,0.3,0.7,0.7c0,0.4-0.3,0.7-0.7,0.7c-0.4,0-0.7-0.3-0.7-0.7
+			C72.4,24.8,72.7,24.5,73.1,24.5z"/>
+	</g>
+</g>
+<g>
+	<rect x="4.8" y="263.5" fill="none" width="208.9" height="15.3"/>
+	<text transform="matrix(1 0 0 1 68.626 271.3705)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">DevOps </tspan><tspan x="40" y="0" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">アクセス</tspan></text>
+</g>
+<g>
+	<rect x="4.8" y="701.3" fill="none" width="208.9" height="25.3"/>
+	<text transform="matrix(1 0 0 1 67.4864 709.2009)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">開発者および</tspan><tspan x="61.8" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918"> Ops</tspan><tspan x="8" y="10.8" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">アクセス</tspan><tspan x="49.2" y="10.8" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918"> (API)</tspan></text>
+</g>
+<g>
+	<rect x="4.8" y="509.9" fill="none" width="208.9" height="25.3"/>
+	<text transform="matrix(1 0 0 1 57.7696 517.7765)" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">アプリケーション使用</text>
+</g>
+<g>
+	<rect x="82" y="91.2" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="82" y="91.8" opacity="0.5" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="82" y="129.4" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="82" y="131.1" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="82.4" y="131.7" fill="#FBB715" width="52.2" height="0.3"/>
+	<rect x="82" y="128.8" opacity="0.5" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="87.9" y="141.1" fill="#FBB715" width="41.2" height="2.8"/>
+	<rect x="107.3" y="130.8" fill="#FBB715" width="2.4" height="10.3"/>
+	<path fill="#FBB715" d="M135.1,90.8v33.4H82V90.8H135.1 M135.8,89.2H81.2v41.6h54.6V89.2L135.8,89.2z"/>
+	<g>
+		<g>
+			<rect x="108.3" y="140.5" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="140" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="139.5" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="138.9" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="138.4" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="137.8" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="137.3" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="136.8" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="136.2" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="135.7" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="135.1" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="134.6" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="134.1" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="133.5" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="133" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="132.4" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="131.9" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="131.4" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="130.8" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="122.1" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="121.1" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="120.1" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="119.2" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="118.2" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="117.3" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="116.3" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="115.4" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="114.4" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="113.4" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="112.5" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="111.5" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="110.6" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="109.6" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="108.7" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="107.7" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="106.7" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="105.8" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="104.8" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="103.9" y="142.2" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="82" y="550.7" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="82" y="551.3" opacity="0.5" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="82" y="588.9" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="82" y="590.6" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="82.4" y="591.2" fill="#FBB715" width="52.2" height="0.3"/>
+	<rect x="82" y="588.3" opacity="0.5" fill="#FBB715" width="53.1" height="0.3"/>
+	<rect x="87.9" y="600.6" fill="#FBB715" width="41.2" height="2.8"/>
+	<rect x="107.3" y="590.3" fill="#FBB715" width="2.4" height="10.3"/>
+	<path fill="#FBB715" d="M135.1,550.4v33.4H82v-33.4H135.1 M135.8,548.7H81.2v41.6h54.6V548.7L135.8,548.7z"/>
+	<g>
+		<g>
+			<rect x="108.3" y="600.1" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="599.5" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="599" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="598.4" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="597.9" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="597.4" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="596.8" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="596.3" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="595.7" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="595.2" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="594.7" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="594.1" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="593.6" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="593" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="592.5" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="592" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="591.4" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="590.9" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+		<g>
+			<rect x="108.3" y="590.3" fill="#FBB715" width="0.5" height="0.3"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="122.1" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="121.1" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="120.1" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="119.2" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="118.2" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="117.3" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="116.3" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="115.4" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="114.4" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="113.4" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="112.5" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="111.5" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="110.6" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="109.6" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="108.7" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="107.7" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="106.7" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="105.8" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="104.8" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+		<g>
+			<rect x="103.9" y="601.7" fill="#FBB715" width="0.5" height="0.6"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#939598" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="3,3" x1="200" y1="141.8" x2="279.6" y2="141.8"/>
+		<g>
+			<polygon fill="#939598" points="206,146.9 200.9,141.8 206,136.7 201.7,136.7 196.6,141.8 201.7,146.9 			"/>
+		</g>
+		<g>
+			<polygon fill="#939598" points="273.6,146.9 278.7,141.8 273.6,136.7 277.9,136.7 283,141.8 277.9,146.9 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#939598" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="3,3" x1="200" y1="365.8" x2="396.6" y2="365.8"/>
+		<g>
+			<polygon fill="#939598" points="206,370.9 200.9,365.8 206,360.7 201.7,360.7 196.6,365.8 201.7,370.9 			"/>
+		</g>
+		<g>
+			<polygon fill="#939598" points="390.6,370.9 395.7,365.8 390.6,360.7 394.9,360.7 400,365.8 394.9,370.9 			"/>
+		</g>
+	</g>
+</g>
+<rect x="383" y="531.7" fill="#FFFFFF" stroke="#00AEEF" stroke-miterlimit="10" width="461.7" height="161.3"/>
+<rect x="379.2" y="524" fill="#FFFFFF" width="221.6" height="24.7"/>
+<rect x="388.4" y="524.5" fill="none" width="182.6" height="40.9"/>
+<text transform="matrix(1 0 0 1 388.3796 537.6813)"><tspan x="0" y="0" fill="#000101" font-family="'ArialMT'" font-size="18.3476">Cloudant Dedicated</tspan><tspan x="0" y="22" fill="#000101" font-family="'ArialMT'" font-size="18.3476">(</tspan><tspan x="6.1" y="22" fill="#000101" font-family="'MS-Gothic'" font-size="18.3476">シングル・テナント</tspan><tspan x="171.2" y="22" fill="#000101" font-family="'ArialMT'" font-size="18.3476">)</tspan></text>
+<g>
+	<rect x="825.3" y="525.3" fill="#FFFFFF" width="39.3" height="36.7"/>
+	<rect x="737.9" y="541.5" fill="none" width="93.1" height="9.8"/>
+	<text transform="matrix(1 0 0 1 738.6753 549.3952)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">プライベート</tspan><tspan x="61.8" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918"> VLAN</tspan></text>
+	<g>
+		<polygon fill="#315C80" points="844.3,545.9 842,543.6 840.6,545.1 844.3,548.8 851,542.1 849.6,540.6 		"/>
+		<path fill="#315C80" d="M853.8,536.8v-3.5c0-4.4-3.6-8-8-8s-8,3.6-8,8v3.5c-1.9,2-3,4.6-3,7.5c0,6.1,4.9,11,11,11
+			c6.1,0,11-4.9,11-11C856.8,541.4,855.7,538.8,853.8,536.8z M839.8,533.3c0-3.3,2.7-6,6-6s6,2.7,6,6v1.8c-1.7-1.1-3.8-1.8-6-1.8
+			c-2.2,0-4.3,0.7-6,1.8V533.3z M845.8,553.3c-5,0-9-4-9-9s4-9,9-9s9,4,9,9S850.8,553.3,845.8,553.3z"/>
+	</g>
+</g>
+<g>
+	<rect x="976.7" y="103.6" fill="#FFFFFF" width="39.3" height="36.7"/>
+	<rect x="889.2" y="119.3" fill="none" width="93.2" height="10.7"/>
+	<text transform="matrix(1 0 0 1 890.0408 127.1796)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">プライベート</tspan><tspan x="61.8" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918"> VLAN</tspan></text>
+	<g>
+		<polygon fill="#315C80" points="995.7,124.2 993.4,121.9 992,123.3 995.7,127 1002.4,120.3 1001,118.9 		"/>
+		<path fill="#315C80" d="M1005.2,115.1v-3.5c0-4.4-3.6-8-8-8s-8,3.6-8,8v3.5c-1.9,2-3,4.6-3,7.5c0,6.1,4.9,11,11,11
+			c6.1,0,11-4.9,11-11C1008.2,119.7,1007.1,117.1,1005.2,115.1z M991.2,111.6c0-3.3,2.7-6,6-6s6,2.7,6,6v1.8c-1.7-1.1-3.8-1.8-6-1.8
+			c-2.2,0-4.3,0.7-6,1.8V111.6z M997.2,131.6c-5,0-9-4-9-9c0-5,4-9,9-9s9,4,9,9C1006.2,127.6,1002.2,131.6,997.2,131.6z"/>
+	</g>
+</g>
+<rect x="423" y="571.7" fill="#FFFFFF" stroke="#00AED1" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="3,3" width="381.7" height="81.3"/>
+<g>
+	<g>
+		<polyline fill="none" stroke="#939598" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="3,3" points="333,365.8 
+			333,612.3 396.6,612.3 		"/>
+		<g>
+			<polygon fill="#939598" points="390.6,617.4 395.7,612.3 390.6,607.3 394.9,607.3 400,612.3 394.9,617.4 			"/>
+		</g>
+	</g>
+</g>
+<rect x="290.6" y="318.1" fill="none" width="83.1" height="21.4"/>
+<text transform="matrix(1 0 0 1 290.9991 326.0142)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">インターネット・</tspan><tspan x="10.3" y="10.8" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">ゲートウェイ</tspan></text>
+<g>
+	<polygon fill="#F05158" points="312.8,353.1 333,341.4 353.3,353.1 353.3,376.4 333,388.1 312.8,376.4 	"/>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="312.8" y="321.2" width="20.2" height="77.4"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_4_)" fill="#F16775" points="353.3,376.4 333,388.1 312.8,376.4 312.8,353.1 333,341.4 
+			353.3,353.1 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="10" x1="326.3" y1="364.8" x2="321" y2="364.8"/>
+			<g>
+				<polygon fill="#FFFFFF" points="323.3,362.2 325.9,364.8 323.3,367.3 325.5,367.3 328,364.8 325.5,362.2 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="10" x1="333" y1="371.5" x2="333" y2="376.7"/>
+			<g>
+				<polygon fill="#FFFFFF" points="330.5,374.5 333,371.9 335.6,374.5 335.6,372.3 333,369.8 330.5,372.3 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="10" x1="339.7" y1="364.8" x2="345" y2="364.8"/>
+			<g>
+				<polygon fill="#FFFFFF" points="342.7,367.3 340.2,364.8 342.7,362.2 340.6,362.2 338,364.8 340.6,367.3 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="10" x1="333" y1="358.1" x2="333" y2="352.8"/>
+			<g>
+				<polygon fill="#FFFFFF" points="335.6,355.1 333,357.6 330.5,355.1 330.5,357.2 333,359.8 335.6,357.2 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="534.1" y="318.6" fill="#FFFFFF" stroke="#00AED1" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="3,3" width="92.7" height="92.7"/>
+<g>
+	<rect x="559" y="387.2" fill="none" width="46.8" height="14"/>
+	<text transform="matrix(1 0 0 1 559.9045 394.145)" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="9">キャッシュ</text>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D77.png"  transform="matrix(0.24 0 0 0.24 892.5305 236.0448)">
+				</image>
+				<g>
+					<rect x="894.5" y="238" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D75.png"  transform="matrix(0.24 0 0 0.24 888.5272 232.0416)">
+				</image>
+				<g>
+					<rect x="890.5" y="234" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D73.png"  transform="matrix(0.24 0 0 0.24 562.005 236.0448)">
+				</image>
+				<g>
+					<rect x="564" y="238" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D7C.png"  transform="matrix(0.24 0 0 0.24 558.0018 232.0416)">
+				</image>
+				<g>
+					<rect x="560" y="234" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D7F.png"  transform="matrix(0.24 0 0 0.24 644.6364 236.0448)">
+				</image>
+				<g>
+					<rect x="646.6" y="238" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D7D.png"  transform="matrix(0.24 0 0 0.24 640.6332 232.0416)">
+				</image>
+				<g>
+					<rect x="642.6" y="234" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D72.png"  transform="matrix(0.24 0 0 0.24 727.2677 236.0448)">
+				</image>
+				<g>
+					<rect x="729.3" y="238" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D76.png"  transform="matrix(0.24 0 0 0.24 723.2645 232.0416)">
+				</image>
+				<g>
+					<rect x="725.3" y="234" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="BA5E3D71.png"  transform="matrix(0.24 0 0 0.24 809.899 236.0448)">
+				</image>
+				<g>
+					<rect x="811.9" y="238" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE213.png"  transform="matrix(0.24 0 0 0.24 805.8959 232.0416)">
+				</image>
+				<g>
+					<rect x="807.9" y="234" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE211.png"  transform="matrix(0.24 0 0 0.24 562.005 167.9355)">
+				</image>
+				<g>
+					<rect x="564" y="169.9" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE217.png"  transform="matrix(0.24 0 0 0.24 558.0018 163.9323)">
+				</image>
+				<g>
+					<rect x="560" y="165.9" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE212.png"  transform="matrix(0.24 0 0 0.24 644.6364 167.9355)">
+				</image>
+				<g>
+					<rect x="646.6" y="169.9" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE20D.png"  transform="matrix(0.24 0 0 0.24 640.6332 163.9323)">
+				</image>
+				<g>
+					<rect x="642.6" y="165.9" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE20E.png"  transform="matrix(0.24 0 0 0.24 727.2677 167.9355)">
+				</image>
+				<g>
+					<rect x="729.3" y="169.9" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE20F.png"  transform="matrix(0.24 0 0 0.24 723.2645 163.9323)">
+				</image>
+				<g>
+					<rect x="725.3" y="165.9" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE231.png"  transform="matrix(0.24 0 0 0.24 809.899 167.9355)">
+				</image>
+				<g>
+					<rect x="811.9" y="169.9" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+			<g>
+				
+					<image overflow="visible" opacity="0.2" width="179" height="179" xlink:href="EF9EE233.png"  transform="matrix(0.24 0 0 0.24 805.8959 163.9323)">
+				</image>
+				<g>
+					<rect x="807.9" y="165.9" fill="#768A93" width="36.8" height="36.8"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="557" y="212.7" fill="none" width="46.8" height="14"/>
+	<text transform="matrix(1 0 0 1 560.8942 219.1808)" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">GoRouter</text>
+	<rect x="641.9" y="212.7" fill="none" width="46.8" height="14"/>
+	<text transform="matrix(1 0 0 1 646.7988 219.1808)" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">App DEA</text>
+	<rect x="706.6" y="212.7" fill="none" width="82.1" height="12"/>
+	<text transform="matrix(1 0 0 1 707.1265 219.6628)" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="9">ログイン・サーバー</text>
+	<rect x="821" y="212.7" fill="none" width="18.6" height="14"/>
+	<text transform="matrix(1 0 0 1 821.0463 219.1808)" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">UAA</text>
+	<rect x="885.5" y="212.7" fill="none" width="46.8" height="14"/>
+	<text transform="matrix(1 0 0 1 887.915 219.1808)" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">Blob Store</text>
+	<rect x="546.2" y="279.6" fill="none" width="64.4" height="14"/>
+	<text transform="matrix(1 0 0 1 549.3893 286.0154)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">Cloud Control</tspan><tspan x="55" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">-</tspan></text>
+	<rect x="653.5" y="279.6" fill="none" width="22.9" height="14"/>
+	<text transform="matrix(1 0 0 1 655.9938 286.0154)" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">NAT</text>
+	<rect x="714.4" y="279.6" fill="none" width="62.1" height="14"/>
+	<text transform="matrix(1 0 0 1 715.9289 286.0154)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">Health manag</tspan><tspan x="56" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">-</tspan></text>
+	<rect x="817.7" y="279.6" fill="none" width="25.3" height="14"/>
+	<text transform="matrix(1 0 0 1 820.7957 286.0154)" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">BOS</text>
+	<rect x="894.7" y="279.6" fill="none" width="40.4" height="14"/>
+	<text transform="matrix(1 0 0 1 902.179 286.0154)" fill="#BCBEC0" font-family="'ArialMT'" font-size="9">BOSH </text>
+	<g>
+		
+			<image overflow="visible" opacity="0.2" width="167" height="195" xlink:href="EF9EE236.png"  transform="matrix(0.24 0 0 0.24 889.6687 164.0137)">
+		</image>
+		<g>
+			<g>
+				<path fill="#53656D" d="M908.6,174.8c-9.4,0-17-2-17-4.4v32c0,2.4,7.6,4.4,17,4.4c9.4,0,17-2,17-4.4v-32
+					C925.6,172.8,918,174.8,908.6,174.8z"/>
+				<g>
+					<path fill="#53656D" d="M919.3,167c-0.8-0.2-1.7-0.3-2.7-0.5c-1.5-0.2-3-0.4-4.6-0.4c-1.1-0.1-2.2-0.1-3.4-0.1s-2.3,0-3.4,0.1
+						c-1.6,0.1-3.2,0.2-4.6,0.4c-1,0.1-1.8,0.3-2.7,0.5c-4.3,0.9-5.8,2.1-5.8,2.9c0,1.3,5,3.9,16.5,3.9s16.5-2.6,16.5-3.9
+						C925.1,169.2,923.6,167.9,919.3,167z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="524.8" y="141.8" fill="#FFFFFF" width="85.1" height="17.6"/>
+<rect x="524.8" y="309.8" fill="#FFFFFF" width="70.2" height="17.6"/>
+<rect x="534.3" y="146.9" fill="none" width="77.9" height="9.8"/>
+<text transform="matrix(1 0 0 1 536.6264 156.1176)" font-family="'MS-Gothic'" font-size="12">ファブリック</text>
+<rect x="534" y="313.5" fill="none" width="54" height="15.3"/>
+<text transform="matrix(1 0 0 1 536.6634 322.7418)" font-family="'MS-Gothic'" font-size="12">サービス</text>
+<g>
+	<path fill="#F05158" d="M92.8,401.9c5.5,0,10-4.5,10-10c0-5.5-4.5-10-10-10c-5.5,0-10,4.5-10,10C82.8,397.4,87.2,401.9,92.8,401.9z
+		 M92.8,383.9c4.4,0,8,3.6,8,8s-3.6,8-8,8c-4.4,0-8-3.6-8-8S88.4,383.9,92.8,383.9z"/>
+	<path fill="#F05158" d="M114.8,391.9c0,5.5,4.5,10,10,10c5.5,0,10-4.5,10-10c0-5.5-4.5-10-10-10
+		C119.2,381.9,114.8,386.4,114.8,391.9z M124.8,383.9c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8S120.4,383.9,124.8,383.9z"/>
+	<path fill="#F05158" d="M118.8,369.9c0-5.5-4.5-10-10-10c-5.5,0-10,4.5-10,10c0,5.5,4.5,10,10,10
+		C114.3,379.9,118.8,375.4,118.8,369.9z M108.8,377.9c-4.4,0-8-3.6-8-8s3.6-8,8-8c4.4,0,8,3.6,8,8S113.2,377.9,108.8,377.9z"/>
+	<path fill="#F05158" d="M100.8,405.9h-16c-2.2,0-4,1.8-4,4v6h24v-6C104.8,407.7,103,405.9,100.8,405.9z"/>
+	<path fill="#F05158" d="M132.8,405.9h-16c-2.2,0-4,1.8-4,4v6h24v-6C136.8,407.7,135,405.9,132.8,405.9z"/>
+</g>
+<rect x="407.3" y="392" fill="#FFFFFF" width="47.2" height="38.9"/>
+<rect x="400" y="396.8" fill="none" width="46.1" height="31.5"/>
+<text transform="matrix(1 0 0 1 408.4402 404.1693)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">Vyatta</tspan><tspan x="-6" y="10.8" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">ファイア</tspan><tspan x="-6" y="21.5" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">ウォール</tspan></text>
+<rect x="458.6" y="393.3" fill="none" width="63.1" height="33.9"/>
+<text transform="matrix(1 0 0 1 464.7114 400.6447)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">DataPower</tspan><tspan x="-5.4" y="10.8" fill="#BCBEC0" font-family="'MS-Gothic'" font-size="10.2918">ゲートウェイ</tspan></text>
+<g>
+	<path fill="#F05158" d="M423.7,354.2c-9.4,0-17-2-17-4.4v32c0,2.4,7.6,4.4,17,4.4c9.4,0,17-2,17-4.4v-32
+		C440.7,352.2,433.1,354.2,423.7,354.2z"/>
+	<g>
+		<path fill="#F05158" d="M434.4,346.4c-0.8-0.2-1.7-0.3-2.7-0.5c-1.5-0.2-3-0.4-4.6-0.4c-1.1-0.1-2.2-0.1-3.4-0.1s-2.3,0-3.4,0.1
+			c-1.6,0.1-3.2,0.2-4.6,0.4c-1,0.1-1.8,0.3-2.7,0.5c-4.3,0.9-5.8,2.1-5.8,2.9c0,1.3,5,3.9,16.5,3.9s16.5-2.6,16.5-3.9
+			C440.2,348.6,438.6,347.4,434.4,346.4z"/>
+	</g>
+</g>
+<g>
+	<rect x="404.2" y="618.3" fill="#FFFFFF" width="50.2" height="30.4"/>
+	<rect x="400.3" y="626.3" fill="none" width="46.8" height="20.8"/>
+	<text transform="matrix(1 0 0 1 409.1181 633.6843)"><tspan x="0" y="0" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">Vyatta</tspan><tspan x="-3.1" y="10.8" fill="#BCBEC0" font-family="'ArialMT'" font-size="10.2918">Firewall</tspan></text>
+</g>
+<g>
+	<path fill="#F05158" d="M423.7,588.7c-9.4,0-17-2-17-4.4v32c0,2.4,7.6,4.4,17,4.4c9.4,0,17-2,17-4.4v-32
+		C440.7,586.7,433.1,588.7,423.7,588.7z"/>
+	<g>
+		<path fill="#F05158" d="M434.4,581c-0.8-0.2-1.7-0.3-2.7-0.5c-1.5-0.2-3-0.4-4.6-0.4c-1.1-0.1-2.2-0.1-3.4-0.1s-2.3,0-3.4,0.1
+			c-1.6,0.1-3.2,0.2-4.6,0.4c-1,0.1-1.8,0.3-2.7,0.5c-4.3,0.9-5.8,2.1-5.8,2.9c0,1.3,5,3.9,16.5,3.9s16.5-2.6,16.5-3.9
+			C440.2,583.1,438.6,581.9,434.4,581z"/>
+	</g>
+</g>
+<g>
+	<path fill="#F05158" d="M84.4,437.1v15.2v1.9v13.3v1.9v15.2H132v-15.2v-1.9v-13.3v-1.9v-15.2H84.4z M130.1,482.8H86.3v-13.3h43.8
+		V482.8z M130.1,467.6H86.3v-13.3h43.8V467.6z M123.4,442.8c1.6,0,2.9,1.3,2.9,2.9c0,1.6-1.3,2.9-2.9,2.9c-1.6,0-2.9-1.3-2.9-2.9
+		C120.6,444.1,121.8,442.8,123.4,442.8z"/>
+	<circle fill="#F05158" cx="123.4" cy="460.9" r="2.9"/>
+	<circle fill="#F05158" cx="123.4" cy="476.2" r="2.9"/>
+</g>
+<g>
+	
+		<image overflow="visible" opacity="0.2" width="192" height="192" xlink:href="EF9EE22A.png"  transform="matrix(0.24 0 0 0.24 468.3918 344.4752)">
+	</image>
+	<g>
+		<path fill="#F05158" d="M510.3,379c0,4.1-3.3,7.4-7.4,7.4h-25.1c-4.1,0-7.4-3.3-7.4-7.4v-25.1c0-4.1,3.3-7.4,7.4-7.4h25.1
+			c4.1,0,7.4,3.3,7.4,7.4V379z"/>
+	</g>
+</g>
+<g>
+	
+		<image overflow="visible" opacity="0.2" width="192" height="192" xlink:href="EF9EE229.png"  transform="matrix(0.24 0 0 0.24 311.0617 97.3)">
+	</image>
+	<g>
+		<path fill="#F05158" d="M353,131.8c0,4.1-3.3,7.4-7.4,7.4h-25.1c-4.1,0-7.4-3.3-7.4-7.4v-25.1c0-4.1,3.3-7.4,7.4-7.4h25.1
+			c4.1,0,7.4,3.3,7.4,7.4V131.8z"/>
+	</g>
+</g>
+<g>
+	<path fill="#FBB715" d="M139.3,175.7l-8.5,8.5c-1.2,1.2-2.7,1.8-4.2,1.8c-1.5,0-3.1-0.6-4.2-1.8c-2.3-2.3-2.3-6.1,0-8.5l8.5-8.5
+		c-1.9-0.8-4-1.3-6.2-1.3c-8.8,0-16,7.2-16,16c0,1.8,0.3,3.6,0.9,5.2L82.6,214c-2.7,2.7-2.7,7.2,0,9.9c1.4,1.4,3.2,2.1,4.9,2.1
+		s3.6-0.7,4.9-2.1l26.8-26.8c1.6,0.6,3.4,0.9,5.2,0.9c8.8,0,16-7.2,16-16C140.6,179.7,140.1,177.6,139.3,175.7z M124.6,195.9
+		c-1.5,0-3.1-0.3-4.6-0.8l-1.2-0.4l-0.9,0.9l-26.8,26.8c-0.9,0.9-2.2,1.5-3.5,1.5s-2.6-0.5-3.5-1.5c-1.9-1.9-2-5.1,0-7.1l26.8-26.8
+		l0.9-0.9l-0.4-1.2c-0.5-1.5-0.8-3-0.8-4.6c0-7.7,6.3-14,14-14c0.8,0,1.7,0.1,2.5,0.2l-6.1,6.1c-3.1,3.1-3.1,8.2,0,11.3
+		c1.5,1.5,3.5,2.3,5.7,2.3c2.1,0,4.1-0.8,5.7-2.3l6.1-6.1c0.1,0.8,0.2,1.6,0.2,2.5C138.6,189.7,132.3,195.9,124.6,195.9z"/>
+	<circle fill="#FBB715" cx="87.6" cy="218.9" r="2"/>
+</g>
+<g>
+	<path fill="#FBB715" d="M139.3,628.5l-8.5,8.5c-1.2,1.2-2.7,1.8-4.2,1.8c-1.5,0-3.1-0.6-4.2-1.8c-2.3-2.3-2.3-6.1,0-8.5l8.5-8.5
+		c-1.9-0.8-4-1.3-6.2-1.3c-8.8,0-16,7.2-16,16c0,1.8,0.3,3.6,0.9,5.2l-26.8,26.8c-2.7,2.7-2.7,7.2,0,9.9c1.4,1.4,3.2,2.1,4.9,2.1
+		s3.6-0.7,4.9-2.1l26.8-26.8c1.6,0.6,3.4,0.9,5.2,0.9c8.8,0,16-7.2,16-16C140.6,632.5,140.1,630.4,139.3,628.5z M124.6,648.7
+		c-1.5,0-3.1-0.3-4.6-0.8l-1.2-0.4l-0.9,0.9l-26.8,26.8c-0.9,0.9-2.2,1.5-3.5,1.5s-2.6-0.5-3.5-1.5c-1.9-1.9-2-5.1,0-7.1l26.8-26.8
+		l0.9-0.9l-0.4-1.2c-0.5-1.5-0.8-3-0.8-4.6c0-7.7,6.3-14,14-14c0.8,0,1.7,0.1,2.5,0.2l-6.1,6.1c-3.1,3.1-3.1,8.2,0,11.3
+		c1.5,1.5,3.5,2.3,5.7,2.3c2.1,0,4.1-0.8,5.7-2.3l6.1-6.1c0.1,0.8,0.2,1.6,0.2,2.5C138.6,642.5,132.3,648.7,124.6,648.7z"/>
+	<circle fill="#FBB715" cx="87.6" cy="671.7" r="2"/>
+</g>
+<path fill="#315C80" d="M579.9,64.7c-0.4-4.3-4-7.6-8.4-7.6c-4.2,0-7.7,3.1-8.4,7.1c-0.4-0.1-0.7-0.1-1.1-0.1
+	c-4.1,0-7.5,3.4-7.5,7.5c0,4.1,3.4,7.5,7.5,7.5h15c4.1,0,7.5-3.4,7.5-7.5C584.4,68.6,582.6,65.9,579.9,64.7z M576.9,77.1h-15
+	c-3,0-5.5-2.5-5.5-5.5c0-3,2.5-5.5,5.5-5.5c0.6,0,1.1,0.1,1.7,0.3l1.3,0.4l0-1.3c0.1-3.5,3-6.3,6.5-6.3c3.6,0,6.4,2.8,6.5,6.3l0,0.7
+	l0.7,0.2c2.3,0.7,3.8,2.8,3.8,5.2C582.4,74.7,580,77.1,576.9,77.1z"/>
+<path fill="#315C80" d="M588.2,527.4c-0.4-4.3-4-7.6-8.4-7.6c-4.2,0-7.7,3.1-8.4,7.1c-0.4-0.1-0.7-0.1-1.1-0.1
+	c-4.1,0-7.5,3.4-7.5,7.5s3.4,7.5,7.5,7.5h15c4.1,0,7.5-3.4,7.5-7.5C592.7,531.2,590.9,528.6,588.2,527.4z M585.2,539.8h-15
+	c-3,0-5.5-2.5-5.5-5.5s2.5-5.5,5.5-5.5c0.6,0,1.1,0.1,1.7,0.3l1.3,0.4l0-1.3c0.1-3.5,3-6.3,6.5-6.3c3.6,0,6.4,2.8,6.5,6.3l0,0.7
+	l0.7,0.2c2.3,0.7,3.8,2.8,3.8,5.2C590.7,537.3,588.2,539.8,585.2,539.8z"/>
+<g>
+	<circle fill="none" stroke="#F16775" stroke-miterlimit="10" cx="613.9" cy="610.8" r="26"/>
+	<g>
+		<path fill="#F05158" d="M613.9,579.5c-4.2,0-7.6-0.9-7.6-2v14.4c0,1.1,3.4,2,7.6,2c4.2,0,7.6-0.9,7.6-2v-14.4
+			C621.5,578.6,618.1,579.5,613.9,579.5z"/>
+		<g>
+			<path fill="#F05158" d="M618.7,576c-0.4-0.1-0.8-0.2-1.2-0.2c-0.7-0.1-1.4-0.2-2.1-0.2c-0.5,0-1,0-1.5,0c-0.5,0-1,0-1.5,0
+				c-0.7,0-1.4,0.1-2.1,0.2c-0.4,0.1-0.8,0.1-1.2,0.2c-1.9,0.4-2.6,1-2.6,1.3c0,0.6,2.2,1.8,7.4,1.8c5.2,0,7.4-1.2,7.4-1.8
+				C621.3,577,620.6,576.5,618.7,576z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#F05158" d="M613.9,631.6c-4.2,0-7.6-0.9-7.6-2V644c0,1.1,3.4,2,7.6,2c4.2,0,7.6-0.9,7.6-2v-14.4
+			C621.5,630.7,618.1,631.6,613.9,631.6z"/>
+		<g>
+			<path fill="#F05158" d="M618.7,628.1c-0.4-0.1-0.8-0.2-1.2-0.2c-0.7-0.1-1.4-0.2-2.1-0.2c-0.5,0-1,0-1.5,0c-0.5,0-1,0-1.5,0
+				c-0.7,0-1.4,0.1-2.1,0.2c-0.4,0.1-0.8,0.1-1.2,0.2c-1.9,0.4-2.6,1-2.6,1.3c0,0.6,2.2,1.8,7.4,1.8c5.2,0,7.4-1.2,7.4-1.8
+				C621.3,629,620.6,628.5,618.7,628.1z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#F05158" d="M639.9,605.5c-4.2,0-7.6-0.9-7.6-2V618c0,1.1,3.4,2,7.6,2c4.2,0,7.6-0.9,7.6-2v-14.4
+			C647.5,604.7,644.1,605.5,639.9,605.5z"/>
+		<g>
+			<path fill="#F05158" d="M644.7,602.1c-0.4-0.1-0.8-0.2-1.2-0.2c-0.7-0.1-1.4-0.2-2.1-0.2c-0.5,0-1,0-1.5,0s-1,0-1.5,0
+				c-0.7,0-1.4,0.1-2.1,0.2c-0.4,0.1-0.8,0.1-1.2,0.2c-1.9,0.4-2.6,1-2.6,1.3c0,0.6,2.2,1.8,7.4,1.8s7.4-1.2,7.4-1.8
+				C647.3,603,646.6,602.5,644.7,602.1z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#F05158" d="M587.8,605.5c-4.2,0-7.6-0.9-7.6-2V618c0,1.1,3.4,2,7.6,2c4.2,0,7.6-0.9,7.6-2v-14.4
+			C595.5,604.7,592.1,605.5,587.8,605.5z"/>
+		<g>
+			<path fill="#F05158" d="M592.7,602.1c-0.4-0.1-0.8-0.2-1.2-0.2c-0.7-0.1-1.4-0.2-2.1-0.2c-0.5,0-1,0-1.5,0c-0.5,0-1,0-1.5,0
+				c-0.7,0-1.4,0.1-2.1,0.2c-0.4,0.1-0.8,0.1-1.2,0.2c-1.9,0.4-2.6,1-2.6,1.3c0,0.6,2.2,1.8,7.4,1.8c5.2,0,7.4-1.2,7.4-1.8
+				C595.3,603,594.6,602.5,592.7,602.1z"/>
+		</g>
+	</g>
+	<path fill="#F05158" d="M620.3,608.7c-0.3-2.7-2.5-4.7-5.2-4.7c-2.6,0-4.7,1.9-5.2,4.4c-0.2,0-0.5-0.1-0.7-0.1
+		c-2.6,0-4.6,2.1-4.6,4.6s2.1,4.6,4.6,4.6h9.3c2.6,0,4.6-2.1,4.6-4.6C623.1,611.1,622,609.4,620.3,608.7z M618.5,616.3h-9.3
+		c-1.9,0-3.4-1.5-3.4-3.4s1.5-3.4,3.4-3.4c0.4,0,0.7,0.1,1,0.2l0.8,0.3l0-0.8c0.1-2.2,1.8-3.9,4-3.9c2.2,0,4,1.7,4,3.9l0,0.4
+		l0.4,0.1c1.4,0.5,2.4,1.8,2.4,3.2C621.9,614.8,620.4,616.3,618.5,616.3z"/>
+</g>
+<g>
+	<polygon fill="#325C80" points="570,381.2 557.8,359.7 570,338.2 594.6,338.2 606.8,359.7 594.6,381.2 	"/>
+	<rect x="571.4" y="350" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="583.2" y="349.9" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="577.3" y="355" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="589" y="355" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="589" y="349.9" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="571.5" y="364.9" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="571.4" y="359.9" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="577.3" y="359.9" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="583.2" y="359.9" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="577.3" y="365" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+	<rect x="589" y="365" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="4.3" height="3.3"/>
+</g>
+</svg>

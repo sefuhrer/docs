@@ -1,10 +1,22 @@
+---
+
+ 
+
+copyright:
+
+  years: 2014, 2016
+
+ 
+
+---
+
 {:shortdesc: .shortdesc} 
 {:new_window: target="_blank"}
 
 # {{site.data.keyword.Bluemix_notm}} overview
 {: #overview}
 
-*Last updated: 22 October 2015*
+*Last updated: 18 January 2016*
 
 {{site.data.keyword.Bluemix}} is the {{site.data.keyword.IBM}} open cloud platform that provides mobile and web developers access to {{site.data.keyword.IBM_notm}} software for integration, security, transaction, and other key functions, as well as software from business partners.
 {:shortdesc}
@@ -30,7 +42,7 @@ You can use {{site.data.keyword.Bluemix_notm}} to quickly develop apps in the mo
 
 {{site.data.keyword.Bluemix_notm}} also provides middleware services for your apps to use. {{site.data.keyword.Bluemix_notm}} acts on the app's behalf when it provisions new service instances, and then binds those services to the app. Your app can perform its real job, leaving the management of the services to the infrastructure.
 
-In general, you don't have to worry about the operating system and infrastructure layers when running apps on {{site.data.keyword.Bluemix_notm}}. Layers such as root filesystems and middleware components are abstracted so that you can focus on your application code. However, you can learn more about these layers if you need specifics on where your app is running. See [Viewing {{site.data.keyword.Bluemix_notm}} infrastructure layers](../cli/viewinfra.html#viewinfra) for details. 
+In general, you don't have to worry about the operating system and infrastructure layers when running apps on {{site.data.keyword.Bluemix_notm}}. Layers such as root filesystems and middleware components are abstracted so that you can focus on your application code. However, you can learn more about these layers if you need specifics on where your app is running. See [Viewing {{site.data.keyword.Bluemix_notm}} infrastructure layers](../cli/vcapsvc.html#viewinfra) for details. 
 
 ## {{site.data.keyword.Bluemix_notm}} architecture
 {: #ov_arch}
@@ -52,7 +64,7 @@ The following figure shows the high-level {{site.data.keyword.Bluemix_notm}} arc
 
 *Figure 1. {{site.data.keyword.Bluemix_notm}} architecture*
 
-You can deploy your apps to different {{site.data.keyword.Bluemix_notm}} regions, for latency or security considerations. You can choose to deploy either to one region or across multiple regions. For more information, see [Regions](overview.html#ov_intro__reg).
+You can deploy your apps to different {{site.data.keyword.Bluemix_notm}} regions, for latency or security considerations. You can choose to deploy either to one region or across multiple regions. For more information, see [Regions](#ov_intro__reg).
 
 ![Multi-region application development](images/multi-region.png)
 
@@ -82,6 +94,10 @@ IBM uses relay technology to securely monitor and maintain your environment, so 
 ![{{site.data.keyword.Bluemix_notm}} Local.](images/localarch.png "Bluemix Local")
 
 *Figure 4. {{site.data.keyword.Bluemix_notm}} Local*
+
+The inception virtual machine runs in a network behind your customer firewall in a network that has outbound connectivity to the IBM operations center through Relay. The {{site.data.keyword.Bluemix_notm}} platform components and core services run in a private, isolated virtual local area network (VLAN). {{site.data.keyword.Bluemix_notm}} Local uses a VLAN for the private subnet. Using a private subnet rather than a public VLAN is more secure and can help avoid routing issues.
+
+DataPower appliances provide access to {{site.data.keyword.Bluemix_notm}} application domains. These appliances connect to the network that is accessible  from your intranet. Users who are deploying apps and services get access from the network that is accessible from your intranet. You must provide seven IP addresses that have outbound internet access. DataPower appliances route from these customer IP addresses to the isolated {{site.data.keyword.Bluemix_notm}} deployment. For information about the network specifications and infrastructure requirements, see [{{site.data.keyword.Bluemix_notm}} Local infrastructure requirements](../local/index.html#localinfra).
 
 ### How {{site.data.keyword.Bluemix_notm}} works
 {: #howwork}
@@ -155,18 +171,19 @@ A unique prefix is assigned to each region. {{site.data.keyword.Bluemix_notm}} p
 
 <!-- PRODUCTION ONLY: Ensure that URLs are production URLs, not stage1-->
 
-| **Region name** | **Region prefix** | **cf API endpoint** | **UI console** |       
-|-----------------|-------------------|---------------------|----------------|
-| US South region | us-south | api.ng.{{site.data.keyword.Bluemix_notm}}.net | console.ng.{{site.data.keyword.Bluemix_notm}}.net |
-| Europe United Kingdom region | eu-gb | api.eu-gb.{{site.data.keyword.Bluemix_notm}}.net | console.eu-gb.{{site.data.keyword.Bluemix_notm}}.net |
-| Australia Sydney region | au-syd | api.au-syd.{{site.data.keyword.Bluemix_notm}}.net | console.au-syd.{{site.data.keyword.Bluemix_notm}}.net |
+| **Region name** | **Geographic location** | **Region prefix** | **cf API endpoint** | **UI console** |       
+|-----------------|-------------------------|-------------------|---------------------|----------------|
+| US South region | Dallas, US | ng | api.ng.bluemix.net | console.ng.bluemix.net |
+| United Kingdom region | London, England | eu-gb | api.eu-gb.bluemix.net | console.eu-gb.bluemix.net |
+| Sydney region | Sydney, Australia | au-syd | api.au-syd.bluemix.net | console.au-syd.bluemix.net |
+
 
 *Table 1. {{site.data.keyword.Bluemix_notm}} region list*
 
 ### Infrastructure
 {: #infrastructure}
 
-{{site.data.keyword.Bluemix_notm}} offers three ways for you to run your code: Cloud Foundry, {{site.data.keyword.IBM_notm}} Containers, and virtual machines. You can pick the right infrastructure for deploying your apps.
+{{site.data.keyword.Bluemix_notm}} offers three ways for you to run your code: Cloud Foundry, {{site.data.keyword.IBM_notm}} Containers, and Virtual Machines. The {{site.data.keyword.IBM_notm}} Containers and Virtual Machines are available in only the US South and Europe United Kingdom region. You can pick the right infrastructure for deploying your apps. 
 
 <dl>
 <dt>Cloud Foundry</dt>
@@ -176,13 +193,13 @@ A unique prefix is assigned to each region. {{site.data.keyword.Bluemix_notm}} p
 
     {{site.data.keyword.IBM_notm}} Containers are used to run Docker containers in a hosted cloud environment. Docker adds an engine that deploys an app to the virtual environment that you use for running your containers. Docker also provides an environment that you can use to run your code. When you're ready, it provides the means by which you can transfer the code from your development environment, to your test environment, and then to your production environment.
 
-    To find out more about {{site.data.keyword.IBM_notm}} Containers, see [{{site.data.keyword.IBM_notm}} Containers](../containers/container_index.html) in the Creating Web Apps documentation.</dd>
-<dt>Virtual Machines (BETA)</dt>
-    <dd>The {{site.data.keyword.Bluemix_notm}} virtual machines infrastructure gives you the ability to create and manage virtual machine groups on the {{site.data.keyword.IBM_notm}} public cloud. You can also create and manage VM groups on your private {{site.data.keyword.IBM_notm}} clouds that you’ve chosen to make available to {{site.data.keyword.Bluemix_notm}} users. The infrastructure includes a guided experience to connect to your on-premises infrastructure. Support for monitoring and logging is integrated into {{site.data.keyword.Bluemix_notm}}. You can deploy and manage your virtual machines by using either the {{site.data.keyword.Bluemix_notm}} user interface or the cloud's OpenStack APIs.
-
-    Virtual machines on {{site.data.keyword.Bluemix_notm}} support provisioning of virtual machine groups with auto scaling. Through this support, the number of instances can be automatically increased or decreased, based on CPU load or the failure of an instance. In addition, load balancing is supported, which enables the assignment of virtual IP (floating IP) addresses as needed.
-
-    To find out more about {{site.data.keyword.Bluemix_notm}} virtual machines, see [Virtual Machines](../virtualmachines/vm_index.html) in the Creating Web Apps documentation.</dd>
+    To find out more about {{site.data.keyword.IBM_notm}} Containers, see [{{site.data.keyword.IBM_notm}} Containers](../containers/container_index.html).</dd>
+<dt>{{site.data.keyword.IBM_notm}} {{site.data.keyword.virtualmachinesshort}} (BETA)</dt>
+    <dd><p>{{site.data.keyword.IBM_notm}} {{site.data.keyword.virtualmachinesshort}} is a hosted cloud environment, part of {{site.data.keyword.IBM_notm}} {{site.data.keyword.Bluemix_notm}}, that you can use to build, run, manage, and monitor your applications, while maintaining the most control over your apps and the middleware on which they run. Use {{site.data.keyword.virtualmachinesshort}} to isolate your business solutions, especially when you deploy your apps in a public cloud. </p>
+<p>    
+You can run and manage virtual servers in public and private (on-premises) clouds that use OpenStack software. You can create, launch, and manage your virtual servers by using either the {{site.data.keyword.Bluemix_notm}} UI or the OpenStackClient (OSC) client. You can use virtual server images that are provided by {{site.data.keyword.IBM_notm}}, or create virtual servers from your own custom images. You can use {{site.data.keyword.IBM_notm}} {{site.data.keyword.Bluemix_notm}} capabilities to remove most of the complexities that are associated with hosting and managing cloud-based applications such as logging, auto-scaling, and monitoring. You can use OpenStack services and {{site.data.keyword.Bluemix_notm}} services together to build and run hybrid applications. You can provision infrastructure resources as needed based on operational policies and workload demand. </p>
+<p>
+To find out more about {{site.data.keyword.IBM_notm}} {{site.data.keyword.virtualmachinesshort}}, see [{{site.data.keyword.IBM_notm}} {{site.data.keyword.virtualmachinesshort}}](../virtualmachines/vm_index.html).</p> </dd>
 </dl>
 
 ### Applications
@@ -285,7 +302,7 @@ To integrate a system of record with the app that you create in {{site.data.keyw
     <dd>A Cloud Integration API provides secured access to the systems of record that reside behind a firewall through web APIs. When you create the Cloud Integration API, you choose the resource that you want to access through the web API, specify the operations that are permitted, and include SDKs and samples to access the API. For more information about how to create a Cloud Integration API, see [Creating Cloud Integration APIs](../services/CloudIntegration/index.html#cloudint_add_service).</dd>
 <dt>Private service</dt>
     <dd>A private service consists of a Cloud Integration API, SDKs, and entitlement policies. In addition, the private service might contain documentation or other items from the service provider. Only the organization manager can publish a Cloud Integration API as a private service. To see the private services that are available to you, select the Private checkbox in the {{site.data.keyword.Bluemix_notm}} catalog. You can select and bind a private service to an app without connecting to the Cloud Integration service. You bind private services to your app in the same way as you do for other {{site.data.keyword.Bluemix_notm}} services. For information about how to publish an API as a private service, see Publishing an API as a private service.</dd>
-	</dl>
+</dl>
 
 ### Scenario: Creating a rich mobile app to connect with your system of record
 {: #scenario}
@@ -321,15 +338,15 @@ The following table lists the supported national languages and language codes fo
 | Simplified Chinese | zh_CN |
 | Traditional Chinese | zh_TW |
 
-*Table 3. Supported national languages and language codes*
+*Table 2. Supported national languages and language codes*
 
 # rellinks
 ## general 
 * [{{site.data.keyword.Bluemix_notm}} Prerequisites](https://developer.ibm.com/bluemix/support/#prereqs)
 * [What's new in {{site.data.keyword.Bluemix_notm}}](../whatsnew/index.html)
 * [{{site.data.keyword.Bluemix_notm}} known issues](https://developer.ibm.com/bluemix/support/#issues)
-* [{{site.data.keyword.Bluemix_notm}} glossary](/glossary/index.html)
-* [{{site.data.keyword.Bluemix_notm}} Pricing Sheet](https://console.{{site.data.keyword.domainname}}/pricing/)
+* [{{site.data.keyword.Bluemix_notm}} glossary](glossary/index.html)
+* [{{site.data.keyword.Bluemix_notm}} Pricing Sheet](https://console.{DomainName}/pricing/)
 * [{{site.data.keyword.Bluemix_notm}} DevOps Services](https://hub.jazz.net)
 * [Cloud Foundry](http://cloudfoundry.org/)
 * [SoftLayer, an {{site.data.keyword.IBM_notm}} Company](http://www.softlayer.com/)
